@@ -1,0 +1,14 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "offset": "${offset_value}",
+        "rows": "${rows_value}",
+        "orderBy": "-${issueDate_key}",
+        "isPLCertificate": "${isPLCertificate_value}",
+        "ownerReferenceList": [
+            {
+                "ownerReference": "${Cert_Owner_Ref}"
+            }
+        ]
+    }
+}

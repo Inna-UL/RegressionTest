@@ -1,0 +1,8 @@
+{
+    "data": {
+        "searchText": "${searchText_value}",
+        "isPLCertificate": "${isPLCertificate_value}",
+        "user": "${user_1}",
+        "orderBy": "-${updatedOn_key}"
+    }
+}

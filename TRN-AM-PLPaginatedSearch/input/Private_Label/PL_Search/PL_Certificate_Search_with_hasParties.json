@@ -1,0 +1,8 @@
+{
+    "data": {
+        "searchText": "${searchText_value}",
+        "hasParties": "${hasPLParties_value}",
+        "isPLCertificate": "${isPLCertificate_value}",
+        "user": "${user_1}"
+        }
+}
